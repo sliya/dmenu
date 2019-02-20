@@ -1,7 +1,7 @@
-dmenu - dynamic menu
-====================
-dmenu is an efficient dynamic menu for X.
+My version of dmenu
+===================
 
+It's just dmenu with a bigger font and fuzzy matching from a patch.
 
 Requirements
 ------------
@@ -17,8 +17,3 @@ Afterwards enter the following command to build and install dmenu
 (if necessary as root):
 
     make clean install
-
-
-Running dmenu
--------------
-See the man page for details.
